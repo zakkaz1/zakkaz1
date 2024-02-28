@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zakkaz1
-- 👀 I’m interested in learning Python for bioinformatics and related fields.
+- 👋 Hi, I’m @zakkaz
 
 <!---
 zakkaz1/zakkaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
